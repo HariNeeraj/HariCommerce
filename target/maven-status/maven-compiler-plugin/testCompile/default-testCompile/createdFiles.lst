@@ -1,0 +1,5 @@
+hariCommerce\testcases\LoginTest.class
+hariCommerce\utilities\Readconfig.class
+hariCommerce\pageobjects\Loginpage.class
+hariCommerce\utilities\ExtentReportManager.class
+hariCommerce\testcases\Testbase.class
